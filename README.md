@@ -18,7 +18,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/tdescartes/Codepath-iOS/tree/main/Prework#:~:text=2%20minutes%20ago-,Tip_calculator.gif,-Pre%2DWork%20submission' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='.../Prework/Tip_calculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
