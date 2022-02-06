@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+<iframe class="imgur-embed" width="100%" height="1209" frameborder="0" src="https://i.imgur.com/Lje2RFV.gifv#embed"></iframe>
 <img src='https://drive.google.com/file/d/1vKGmMiSuSk5kWmzEUsqNn27_5Hs1G6R0/view' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
