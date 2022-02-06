@@ -18,9 +18,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=' ../Tip_calculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src=' .../Tip_calculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
