@@ -18,7 +18,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='../Prework/Tip_calculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1vKGmMiSuSk5kWmzEUsqNn27_5Hs1G6R0/view' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
